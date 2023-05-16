@@ -1,4 +1,9 @@
-# ChatGPT Prompt Engineering for Developers
+# Prompt engineering: intro to different LLMs
+
+
+________________________________________________
+# From DeepLearning.AI:
+## ChatGPT Prompt Engineering for Developers
 
 While taking the free course [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) I downloaded all the notebooks, so I could continue learning and playing with them.
 
@@ -27,3 +32,11 @@ import openai
 openai.api_key = "sk-..."
 ```
 
+### SUMMARY:
+
+- Principles
+    - Write clear and specific instructions
+    - Give the model time to "think"
+- Iterative prompt development
+- Capabilities: Summarizing, Inferring, Transforming, Expanding.
+- ChatBot capabilities.
